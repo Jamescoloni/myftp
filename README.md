@@ -4,7 +4,7 @@ Here is the old versions of myftp
 
 but we prefere you download the latest version for more stability more features less bugs
 
-by v2.0 all v1.x will be removed as some of them windows denfender report them as virus sends to attackers
+by v2.0 all v1.x will be removed as some of them windows defender reported them as virus sends to attackers
 
 Latest Version : wizmyftp.weebly.com
 
