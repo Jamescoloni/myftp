@@ -1,6 +1,5 @@
 # MyFTP
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+[fork my repository](https://github.com/user/repository/fork)
 Here All Versions of MyFTP from v1.1 to v1.7
 
 ### Important !!!
