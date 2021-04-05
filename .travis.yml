@@ -1,4 +1,4 @@
-language: ruby
+language: vb.net
 rvm:
  - 2.2
  - jruby
