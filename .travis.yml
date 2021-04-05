@@ -1,4 +1,4 @@
 language: vb.net
 rvm:
- - 2.2
- - jruby
+ - 4.5
+ - vb.net
