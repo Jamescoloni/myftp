@@ -2,7 +2,7 @@
 Here All Versions of MyFTP from v1.1 to v1.8
 
 ## Download Latest Version
-<a href="https://wizmyftp.weebly.com/downloads.html">Download Now !!!<a>
+<a href="https://res2.weblium.site/res/607c5a206de00a00217c9f23/607c7d985820070022903db1">Download Now !!!<a>
   
 ## Translations
 
@@ -15,6 +15,6 @@ Sanso Toolkit is unofficial builder of MyFTP
 
 ### Credits
 
-Official Website : https://www.wizmyftp.weebly.com
+Official Website : https://www.wizmyftp.weebly.com | https://myftpapp.weblium.site
 
 Copywrite © Youssef Sameh(PowerX) 2019-2021
