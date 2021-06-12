@@ -6,7 +6,7 @@ this github page has been hacked and fake information has been added like the ne
 so i will update this page and remove all wrong informations
 
 ## Download Latest Version
-<a href="https://res2.weblium.site/res/607c5a206de00a00217c9f23/607c7d985820070022903db1">Download Now !!!<a>
+<a href="https://github.com/PowerX-NF/MyFTP/releases/tag/v2.0">Download Now !!!<a>
   
 ## Translations
 
